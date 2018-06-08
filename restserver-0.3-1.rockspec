@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "restserver"
-version = "0.1-1"
+version = "0.3-1"
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.3-1",
   url = "git://github.com/LuaDist-testing/restserver.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/hishamhm/restserver",
---    tag = "v0.1",
+--    tag = "v0.3",
 -- }
 description = {
    summary = "A simple server API for writing REST services running over WSAPI.",
